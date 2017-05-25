@@ -1,2 +1,2 @@
-# Programming-Basics-Entry-Module-
+# Programming-Basics-Entry-Module
 Entry Module
